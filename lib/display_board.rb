@@ -24,26 +24,26 @@ game10 = ["X", "O", "O", "X", "O", "X", "O", "X","O"]
 game11 = ["X", "X", "X", "X", "X", "X", "X", "X","X"]
 game12 = ["O", "O", "O", "O", "O", "O", "O", "O","O"]
 
-print_display_board(game1)
+display_board(game1)
 
-print_display_board(game2)
+display_board(game2)
 
-print_display_board(game3)
+display_board(game3)
 
-print_display_board(game4)
+display_board(game4)
 
-print_display_board(game5)
+display_board(game5)
 
-print_display_board(game6)
+display_board(game6)
 
-print_display_board(game7)
+display_board(game7)
 
-print_display_board(game8)
+display_board(game8)
 
-print_display_board(game9)
+display_board(game9)
 
-print_display_board(game10)
+display_board(game10)
 
-print_display_board(game11)
+display_board(game11)
 
-print_display_board(game12)
+display_board(game12)
